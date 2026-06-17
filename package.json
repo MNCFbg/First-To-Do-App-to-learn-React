@@ -2,7 +2,7 @@
   "name": "todoapp",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://MNCFbg.github.io/First-time-To-Do-App/",
+  "homepage": "https://MNCFbg.github.io/First-To-Do-App-to-learn-React/",
   "type": "module",
   "scripts": {
     "dev": "vite",
